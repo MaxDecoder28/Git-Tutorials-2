@@ -1,1 +1,2 @@
 utility fucntion for version 6 is could.
+This is i try to understand ki my file is push or not.
